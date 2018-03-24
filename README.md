@@ -1,3 +1,3 @@
 # Maze-with-grenades
-Maze solver. K walls can be destroyed.
+Maze solver. 'k' walls can be destroyed.
 University project. Second year.
